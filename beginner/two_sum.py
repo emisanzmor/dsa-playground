@@ -5,7 +5,7 @@
 # EXPLICACIÓN:
 # Imagina que tienes un array o lista de números y un número objetivo.
 # Necesitas encontrar dos números de la lista que al sumarse den el número objetivo (TARGET).
-
+ 
 # No queremos los números, queremos las posiciones de la lista.
 class TwoSum:
      # nums: lista de números / target: el número objetivo
